@@ -7,3 +7,5 @@
 <p> É um modelo de um portifolio de programação feito dentro do curso de front end da escola Origamid</p>
 
 ## Projeto em funcionamento 
+
+![Gif do projeto]()
